@@ -6,7 +6,9 @@ The app [(which can be found here)](https://the-bone-yard-fe.herokuapp.com/#/) c
 
 ## Purpose
 
-This repo serves as the main frontend portion of the application. The backend can be found [here.](https://github.com/TravisGM92/boneyard-backend)
+This repo serves as the main frontend portion of the application. The backend can be found [here.](https://github.com/TravisGM92/boneyard-backend) 
+
+You'll notice a section bellow labeled "Contributors"-- that is a list of all developers who worked on the frontend version of this application.
 
 ## Contributors
 
